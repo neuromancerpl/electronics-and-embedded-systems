@@ -11,6 +11,7 @@ Kurs Raspberry Pi, poziom I
 5. https://forbot.pl/blog/kurs-raspberry-pi-od-podstaw-wstep-spis-tresci-id23139
 Kurs Raspberry Pi, poziom II
 6. https://forbot.pl/blog/kurs-raspberry-pi-projekty-wstep-spis-tresci-id27419
+
 [ENG]
 Offical courses for Arduino:
 1. https://www.arduino.cc/education/courses
