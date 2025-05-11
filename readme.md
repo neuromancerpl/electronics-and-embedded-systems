@@ -1,5 +1,5 @@
-[PL]
--
+
+-[PL]
 Kurs elektroniki, poziom I 
 - https://forbot.pl/blog/kurs-elektroniki-dla-poczatkujacych-id5151
 Kurs elektroniki, poziom II
